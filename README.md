@@ -1,6 +1,10 @@
 # TestingGit
-Modified for Branch2 
+<Modified for Branch2 
 Modified for master:Latest
+=======
+Modified for Branch2
+Second mofification for Branch2
+:Merged Master and Branch2
 =======
 Adding comment
 Adding comment
