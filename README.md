@@ -1,4 +1,5 @@
 # TestingGit
+Commit to Branch1 before rebase
 Modified for Branch1 
 =======
 Adding comment
