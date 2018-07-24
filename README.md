@@ -1,2 +1,5 @@
 # TestingGit
-BRANCH3 FEATURE
+<BRANCH3 FEATURE
+=======
+Master feature
+
